@@ -1,0 +1,1 @@
+pathFile_inp = ("/home/darskki/Plocha/Heureka/inp/")
